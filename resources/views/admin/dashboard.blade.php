@@ -3,5 +3,4 @@
     H-Commerce
 @endsection
 @section('content')
-    hello duc hieu
 @endsection

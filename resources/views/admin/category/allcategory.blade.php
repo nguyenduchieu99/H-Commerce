@@ -38,7 +38,6 @@
                                 <a href="{{route('deletecategory',$categories->id)}}" class="btn btn-warning">Delete</a>
                             </td>
                         </tr>
-
                         @endforeach
                     </tbody>
                 </table>
